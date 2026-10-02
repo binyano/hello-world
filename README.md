@@ -1,3 +1,3 @@
 # hello-world
-repositorio de prueba en clase
+repositorio de prueba en clasee
 hoy soy juan albertico
